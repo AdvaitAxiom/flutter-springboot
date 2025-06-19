@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "598444938431",
+    "project_id": "flutter-login-signup-demo",
+    "storage_bucket": "flutter-login-signup-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598444938431:android:3698654af1bd1f2475220a",
+        "android_client_info": {
+          "package_name": "com.example.firestore_auth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6y1gKw6_7blKTPbH_RI_ys-LA6I1OcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598444938431:android:9643aaea7c22b44d75220a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_auth_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6y1gKw6_7blKTPbH_RI_ys-LA6I1OcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598444938431:android:b7fbe7993374d5b975220a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_login_signup_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6y1gKw6_7blKTPbH_RI_ys-LA6I1OcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598444938431:android:976d35034e6a8e1675220a",
+        "android_client_info": {
+          "package_name": "com.example.login_signup_firebase_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6y1gKw6_7blKTPbH_RI_ys-LA6I1OcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
